@@ -26,9 +26,9 @@ bing_verify:
 color:
   primary: 614B79
   primary-rgb: "97, 75, 121"
-  secondary: 93BBC2
-  secondary-dark: 005E5D
-  section-tout: A2ACAB
+  secondary: 005E5D
+  secondary-dark: 93BBC2
+  section-tout: d5e3e2
 
 #  primary: 2196F3
 #  primary-rgb: "33, 150, 243"
