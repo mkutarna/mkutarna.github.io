@@ -2,8 +2,8 @@
 name: Matthew H. Kutarna
 email: matthewkutarna@gmail.com
 #canonical_url: https://edwinexemplar.com
-keywords: "Engineering Physics, RF, Electronics, Mechanical, Aerospace, Agile, CAD, PCBs"
-skills: "EIT (Engineering Physics) in Vancouver, BC"
+keywords: "Machine Learning, Engineer, Data Science, Engineering Physics"
+skills: "Machine Learning Engineer in Vancouver, BC"
 baseurl:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -11,10 +11,8 @@ baseurl:
 social:
   - title: linkedin
     url: https://www.linkedin.com/in/matthewkutarna
-#  - title: medium
-#    url: https://medium.com/@cgroom
-#  - title: twitter
-#    url: https://twitter.com/chuck_groom
+  - title: github
+    url: https://github.com/mkutarna/
     
 # Google webmaster tools
 google_verify:
@@ -24,17 +22,12 @@ bing_verify:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 614B79
-  primary-rgb: "97, 75, 121"
-  secondary: 005E5D
-  secondary-dark: 93BBC2
-  section-tout: d5e3e2
+  primary: 2196F3
+  primary-rgb: "33, 150, 243"
+  secondary: 285172
+  secondary-dark: 29455b
+  section-tout: eaf1f1
 
-#  primary: 2196F3
-#  primary-rgb: "33, 150, 243"
-#  secondary: 285172
-#  secondary-dark: 29455b
-#  section-tout: eaf1f1
 
 
 # Build settings
